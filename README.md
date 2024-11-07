@@ -5,7 +5,7 @@ This repository contains a school project created for assignment submission. It 
 <a href="Project.pkt"> <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
 <a href="project-proposal.pdf"> <img alt="Project Proposal" src="https://img.shields.io/badge/Project%20Proposal-008565?style=for-the-badge&logo=googledocs&logoColor=white"/> </a>
 
-![Provided Network Diagram](images/cpk-diagram.png)
+![CPK Network Diagram](images/cpk-diagram.png)
 
 ## Senario
 
