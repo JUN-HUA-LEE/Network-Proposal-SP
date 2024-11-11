@@ -7,7 +7,7 @@ This repository contains a school project created for assignment submission. It 
 
 ![CPK Network Diagram](images/cpk-diagram.png)
 
-## Senario
+## Scenario
 
 ABC Pte Ltd provides comprehensive IT solutions and services, including tender management, solution identification, and project implementation. The main office in western Singapore houses the Admin department and server systems, connected to the external network via an ISP leased line. A firewall in router R2 monitors and controls traffic. The main office also connects to two remote branches (Engineering and Sales departments). The company is implementing a wired network designed to support 100% growth over the next 5 to 10 years. A Network Diagram is provided. You are tasked to design and implement the ABC Pte Ltd network.
 
